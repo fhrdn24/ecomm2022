@@ -14,3 +14,5 @@
 - E-mail    : admin@mail.com (administrator)
 - E-mail    : member@mail.com (member)
 - Password  : password
+- 
+Latihan Minggu3 Matkul Sistem E-Commerce
